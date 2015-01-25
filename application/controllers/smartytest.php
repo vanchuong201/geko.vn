@@ -20,8 +20,8 @@ class Smartytest extends CI_Controller {
         parent::__construct();
 
         // Ideally you would autoload the parser
-        $this->load->library('parser');
-        $this->load->helper('url');
+        //$this->load->library('parser');
+        //$this->load->helper('url');
     }
 
     public function index()
