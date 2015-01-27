@@ -14,7 +14,8 @@
  */
 
 // Smarty caching enabled by default unless explicitly set to FALSE
-$config['smarty.cache_status'] = TRUE;
+//$config['smarty.cache_status'] = TRUE;
+$config['smarty.cache_status'] = False;
 
 // The path to the themes
 // Default is implied root directory/themes/
@@ -42,4 +43,5 @@ $config['smarty.template_ext'] = 'tpl';
 $config['smarty.template_error_reporting'] = E_ALL & ~E_NOTICE;
 
 // Debug mode turned on or off (TRUE / FALSE)
-$config['smarty.smarty_debug'] = FALSE;
+//$config['smarty.smarty_debug'] = FALSE;
+$config['smarty.smarty_debug'] = TRUE;
