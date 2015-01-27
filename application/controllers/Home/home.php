@@ -11,8 +11,9 @@ class Home extends CI_Controller{
         parent::__construct();
     }
     public function index(){
-        $data['base_url'] = base_url();
-        $this->parser->parse('Header/header.tpl',$data);
+        $this->parser->assign('base_url',base_url());
+
+        $this->parser->parse('Header/header.tpl');
         $this->parser->parse('Home/home.tpl');
         $this->parser->parse('Footer/footer.tpl');
     }

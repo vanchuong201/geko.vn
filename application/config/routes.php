@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "smartytest";
+$route['default_controller'] = "Home/home";
 $route['404_override'] = '';
 
 

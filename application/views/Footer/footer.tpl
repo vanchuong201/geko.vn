@@ -236,7 +236,7 @@
     <!-- BEGIN PAGE LEVEL JAVASCRIPTS (REQUIRED ONLY FOR CURRENT PAGE) -->
     <script type="text/javascript" src="{$base_url}assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script><!-- pop up -->
     <script type="text/javascript" src="{$base_url}assets/plugins/bxslider/jquery.bxslider.min.js"></script><!-- slider for products -->
-    <script type="text/javascript" src='assets/plugins/zoom/jquery.zoom.min.js'></script><!-- product zoom -->
+    <script type="text/javascript" src='{$base_url}assets/plugins/zoom/jquery.zoom.min.js'></script><!-- product zoom -->
     <script src="{$base_url}assets/plugins/bootstrap-touchspin/bootstrap.touchspin.js" type="text/javascript"></script><!-- Quantity -->
 
     <!-- BEGIN LayerSlider -->
