@@ -13,8 +13,8 @@ class Home extends CI_Controller{
     public function index(){
         $this->parser->assign('base_url',base_url());
 
-        $this->parser->parse('Header/header.tpl');
+        $this->parser->parse('Home/header.tpl');
         $this->parser->parse('Home/home.tpl');
-        $this->parser->parse('Footer/footer.tpl');
+        $this->parser->parse('Home/footer.tpl');
     }
 }

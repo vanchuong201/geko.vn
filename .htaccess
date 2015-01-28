@@ -5,6 +5,8 @@ RewriteRule . index.php
 
 RewriteRule ^Home(/.*|)$ $1 [L,NC]
 
+#RewriteRule ^Admin(/.*|)$ $1 [L,NC]
+
 
 
 #RewriteEngine on
