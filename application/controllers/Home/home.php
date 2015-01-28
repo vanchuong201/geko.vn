@@ -9,9 +9,11 @@
 class Home extends CI_Controller{
     public function Home(){
         parent::__construct();
+        $this->parser->assign('base_url',base_url());
     }
     public function index(){
-        $this->parser->assign('base_url',base_url());
+
+
 
         $this->parser->parse('Home/header.tpl');
         $this->parser->parse('Home/home.tpl');
