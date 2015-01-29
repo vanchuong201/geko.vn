@@ -31,11 +31,14 @@ License: You must have a valid license purchased only from themeforest(the above
 	<!-- END GLOBAL MANDATORY STYLES -->
 
 	<!-- BEGIN PAGE LEVEL PLUGIN STYLES -->
-	<link href="{$base_url}assets2/plugins/gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css"/>
 	<link href="{$base_url}assets2/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css" rel="stylesheet" type="text/css"/>
+
+
+	<link href="{$base_url}assets2/plugins/gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css"/>
 	<link href="{$base_url}assets2/plugins/fullcalendar/fullcalendar/fullcalendar.css" rel="stylesheet" type="text/css"/>
 	<link href="{$base_url}assets2/plugins/jqvmap/jqvmap/jqvmap.css" rel="stylesheet" type="text/css"/>
 	<link href="{$base_url}assets2/plugins/jquery-easy-pie-chart/jquery.easy-pie-chart.css" rel="stylesheet" type="text/css"/>
+
 	<!-- END PAGE LEVEL PLUGIN STYLES -->
 
 	<!-- BEGIN THEME STYLES -->
