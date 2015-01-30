@@ -52,7 +52,7 @@ $autoload['packages'] = array();
 |	$autoload['libraries'] = array('database', 'session', 'xmlrpc');
 */
 
-$autoload['libraries'] = array('Parser');
+$autoload['libraries'] = array('Parser,database');
 
 
 /*
@@ -64,8 +64,8 @@ $autoload['libraries'] = array('Parser');
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array('url','form');
-
+$autoload['helper'] = array('url','form','file','array','date','asset','string');
+// 'file', 'url', 'form', 'array', 'freakauth_light', 'html', 'date', 'asset','string'
 
 /*
 | -------------------------------------------------------------------

@@ -11,6 +11,7 @@ class Home extends CI_Controller{
         parent::__construct();
     }
     public function index(){
+        
         $this->parser->assign('base_url',base_url());
 
 
