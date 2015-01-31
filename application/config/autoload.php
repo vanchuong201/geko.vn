@@ -64,7 +64,7 @@ $autoload['libraries'] = array('Parser','database');
 |	$autoload['helper'] = array('url', 'file');
 */
 
-$autoload['helper'] = array('url','form','file','array','date','string');
+$autoload['helper'] = array('url','form','file','array','date','string','asset');
 // 'file', 'url', 'form', 'array', 'freakauth_light', 'html', 'date', 'asset','string'
 
 /*
@@ -80,7 +80,7 @@ $autoload['helper'] = array('url','form','file','array','date','string');
 |
 */
 
-$autoload['config'] = array();
+$autoload['config'] = array('asset');
 
 
 /*

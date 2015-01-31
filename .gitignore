@@ -1,3 +1,4 @@
 /.idea
 /TEMPLATE
 /application/views/Admin/template
+/application/cache
