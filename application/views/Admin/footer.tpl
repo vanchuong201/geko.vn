@@ -44,14 +44,23 @@
 <!-- BEGIN PAGE LEVEL SCRIPTS -->
 
 <script src="{$base_url}assets/scripts/core/app.js" type="text/javascript"></script>
-<script src="{$base_url}assets/scripts/custom/index.js" type="text/javascript"></script>
 
+{if $jss}
+    {foreach from=$jss item=js}
+        <script src="{$base_url}{$js}" type="text/javascript"></script>
+    {/foreach}
+{/if}
 
 <!-- END PAGE LEVEL SCRIPTS -->
 <script>
     jQuery(document).ready(function() {
         App.init(); // initlayout and core plugins
-        Index.initDashboardDaterange();
+        {if $scripts}
+        {foreach from=$scripts item=script}
+        {$script}
+        {/foreach}
+        {/if}
+
     });
 </script>
 <!-- END JAVASCRIPTS -->

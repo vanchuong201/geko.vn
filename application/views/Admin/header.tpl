@@ -51,6 +51,12 @@ License: You must have a valid license purchased only from themeforest(the above
 	<link href="{$base_url}assets/css/print.css" rel="stylesheet" type="text/css" media="print"/>
 	<link href="{$base_url}assets/css/custom.css" rel="stylesheet" type="text/css"/>
 	<!-- END THEME STYLES -->
+	{if $csss}
+		{foreach from=$csss item=css}
+			<link href="{$base_url}{$css}" rel="stylesheet" type="text/css"/>
+		{/foreach}
+	{/if}
+
 	<link rel="shortcut icon" href="favicon.ico"/>
 </head>
 <!-- END HEAD -->
@@ -1478,7 +1484,17 @@ License: You must have a valid license purchased only from themeforest(the above
 							<a href="#">
 								Dashboard
 							</a>
+							{if $breadcrumb3}
+							<i class="fa fa-angle-right"></i>
+							{/if}
 						</li>
+						{if $breadcrumb3}
+						<li>
+							<a href="#">
+								{$breadcrumb3}
+							</a>
+						</li>
+						{/if}
 						<li class="pull-right">
 							<div id="dashboard-report-range" class="dashboard-date-range tooltips" data-placement="top" data-original-title="Change dashboard date range">
 								<i class="fa fa-calendar"></i>

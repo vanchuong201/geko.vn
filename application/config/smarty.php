@@ -25,7 +25,8 @@ $config['smarty.theme_path'] = 'themes/';
 $config['smarty.theme_name'] = "default";
 
 // Cache lifetime. Default value is 3600 seconds (1 hour) Smarty's default value
-$config['smarty.cache_lifetime'] = 3600;
+//$config['smarty.cache_lifetime'] = 3600;
+$config['smarty.cache_lifetime'] = 1;
 
 // Where templates are compiled
 $config['smarty.compile_directory'] = APPPATH."cache/smarty/compiled/";
