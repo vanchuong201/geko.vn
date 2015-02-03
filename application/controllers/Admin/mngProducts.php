@@ -8,7 +8,6 @@
 class MngProducts extends CI_Controller{
     public function MngProducts(){
         parent::__construct();
-        $this->parser->assign('base_url',base_url());
         $this->parser->assign('scripts','EcommerceProducts.init();');
         $this->parser->assign('jss',array(
                                             'assets/scripts/custom/ecommerce-products.js',
@@ -16,6 +15,7 @@ class MngProducts extends CI_Controller{
                                             'assets/plugins/select2/select2.min.js',
                                             'assets/plugins/data-tables/jquery.dataTables.js',
                                             'assets/plugins/data-tables/DT_bootstrap.js',
+                                            'assets/plugins/bootstrap-datepicker/js/bootstrap-datepicker.js',
                                         ));
     }
 
@@ -23,8 +23,8 @@ class MngProducts extends CI_Controller{
 
 
         $this->parser->assign('breadcrumb3','Manage Products');
-        $this->parser->parse('Admin/header.tpl');
+        //$this->parser->parse('Admin/header.tpl');
         $this->parser->parse('Admin/MngProducts/products.tpl');
-        $this->parser->parse('Admin/footer.tpl');
+        //$this->parser->parse('Admin/footer.tpl');
     }
 }
