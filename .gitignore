@@ -2,3 +2,4 @@
 /TEMPLATE
 /application/views/Admin/template
 /application/cache
+/application/cache/smarty/cached/index.html
