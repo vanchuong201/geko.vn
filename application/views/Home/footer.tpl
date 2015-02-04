@@ -146,11 +146,11 @@
                 <!-- BEGIN PAYMENTS -->
                 <div class="col-md-6 col-sm-6">
                     <ul class="list-unstyled list-inline pull-right margin-bottom-15">
-                        <li><img src="{$base_url}assets/img/payments/western-union.jpg" alt="We accept Western Union" title="We accept Western Union"></li>
-                        <li><img src="{$base_url}assets/img/payments/american-express.jpg" alt="We accept American Express" title="We accept American Express"></li>
-                        <li><img src="{$base_url}assets/img/payments/MasterCard.jpg" alt="We accept MasterCard" title="We accept MasterCard"></li>
-                        <li><img src="{$base_url}assets/img/payments/PayPal.jpg" alt="We accept PayPal" title="We accept PayPal"></li>
-                        <li><img src="{$base_url}assets/img/payments/visa.jpg" alt="We accept Visa" title="We accept Visa"></li>
+                        <li><img src="{$base_url}assets_home/img/payments/western-union.jpg" alt="We accept Western Union" title="We accept Western Union"></li>
+                        <li><img src="{$base_url}assets_home/img/payments/american-express.jpg" alt="We accept American Express" title="We accept American Express"></li>
+                        <li><img src="{$base_url}assets_home/img/payments/MasterCard.jpg" alt="We accept MasterCard" title="We accept MasterCard"></li>
+                        <li><img src="{$base_url}assets_home/img/payments/PayPal.jpg" alt="We accept PayPal" title="We accept PayPal"></li>
+                        <li><img src="{$base_url}assets_home/img/payments/visa.jpg" alt="We accept Visa" title="We accept Visa"></li>
                     </ul>
                 </div>
                 <!-- END PAYMENTS -->
@@ -165,12 +165,12 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-3">
                     <div class="product-main-image">
-                        <img src="{$base_url}assets/temp/products/model7.jpg" alt="Cool green dress with red bell" class="img-responsive">
+                        <img src="{$base_url}assets_home/temp/products/model7.jpg" alt="Cool green dress with red bell" class="img-responsive">
                     </div>
                     <div class="product-other-images">
-                        <a href="#" class="active"><img alt="Berry Lace Dress" src="{$base_url}assets/temp/products/model3.jpg"></a>
-                        <a href="#"><img alt="Berry Lace Dress" src="{$base_url}assets/temp/products/model4.jpg"></a>
-                        <a href="#"><img alt="Berry Lace Dress" src="{$base_url}assets/temp/products/model5.jpg"></a>
+                        <a href="#" class="active"><img alt="Berry Lace Dress" src="{$base_url}assets_home/temp/products/model3.jpg"></a>
+                        <a href="#"><img alt="Berry Lace Dress" src="{$base_url}assets_home/temp/products/model4.jpg"></a>
+                        <a href="#"><img alt="Berry Lace Dress" src="{$base_url}assets_home/temp/products/model5.jpg"></a>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-9">
@@ -224,30 +224,30 @@
     <!-- Load javascripts at bottom, this will reduce page load time -->
     <!-- BEGIN CORE PLUGINS (REQUIRED FOR ALL PAGES) -->
     <!--[if lt IE 9]>
-    <script src="{$base_url}assets/plugins/respond.min.js"></script>
+    <script src="{$base_url}assets_home/plugins/respond.min.js"></script>
     <![endif]-->
-    <script src="{$base_url}assets/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
-    <script src="{$base_url}assets/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
-    <script src="{$base_url}assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-    <script type="text/javascript" src="{$base_url}assets/plugins/back-to-top.js"></script>
-    <script type="text/javascript" src="{$base_url}assets/plugins/jQuery-slimScroll/jquery.slimscroll.min.js"></script>
+    <script src="{$base_url}assets_home/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="{$base_url}assets_home/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+    <script src="{$base_url}assets_home/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="{$base_url}assets_home/plugins/back-to-top.js"></script>
+    <script type="text/javascript" src="{$base_url}assets_home/plugins/jQuery-slimScroll/jquery.slimscroll.min.js"></script>
     <!-- END CORE PLUGINS -->
 
     <!-- BEGIN PAGE LEVEL JAVASCRIPTS (REQUIRED ONLY FOR CURRENT PAGE) -->
-    <script type="text/javascript" src="{$base_url}assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script><!-- pop up -->
-    <script type="text/javascript" src="{$base_url}assets/plugins/bxslider/jquery.bxslider.min.js"></script><!-- slider for products -->
-    <script type="text/javascript" src='{$base_url}assets/plugins/zoom/jquery.zoom.min.js'></script><!-- product zoom -->
-    <script src="{$base_url}assets/plugins/bootstrap-touchspin/bootstrap.touchspin.js" type="text/javascript"></script><!-- Quantity -->
+    <script type="text/javascript" src="{$base_url}assets_home/plugins/fancybox/source/jquery.fancybox.pack.js"></script><!-- pop up -->
+    <script type="text/javascript" src="{$base_url}assets_home/plugins/bxslider/jquery.bxslider.min.js"></script><!-- slider for products -->
+    <script type="text/javascript" src='{$base_url}assets_home/plugins/zoom/jquery.zoom.min.js'></script><!-- product zoom -->
+    <script src="{$base_url}assets_home/plugins/bootstrap-touchspin/bootstrap.touchspin.js" type="text/javascript"></script><!-- Quantity -->
 
     <!-- BEGIN LayerSlider -->
-    <script src="{$base_url}assets/plugins/layerslider/jQuery/jquery-easing-1.3.js" type="text/javascript"></script>
-    <script src="{$base_url}assets/plugins/layerslider/jQuery/jquery-transit-modified.js" type="text/javascript"></script>
-    <script src="{$base_url}assets/plugins/layerslider/js/layerslider.transitions.js" type="text/javascript"></script>
-    <script src="{$base_url}assets/plugins/layerslider/js/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
+    <script src="{$base_url}assets_home/plugins/layerslider/jQuery/jquery-easing-1.3.js" type="text/javascript"></script>
+    <script src="{$base_url}assets_home/plugins/layerslider/jQuery/jquery-transit-modified.js" type="text/javascript"></script>
+    <script src="{$base_url}assets_home/plugins/layerslider/js/layerslider.transitions.js" type="text/javascript"></script>
+    <script src="{$base_url}assets_home/plugins/layerslider/js/layerslider.kreaturamedia.jquery.js" type="text/javascript"></script>
     <!-- END LayerSlider -->
 
-    <script type="text/javascript" src="{$base_url}assets/scripts/app.js"></script>
-    <script type="text/javascript" src="{$base_url}assets/scripts/index.js"></script>
+    <script type="text/javascript" src="{$base_url}assets_home/scripts/app.js"></script>
+    <script type="text/javascript" src="{$base_url}assets_home/scripts/index.js"></script>
     <script type="text/javascript">
         jQuery(document).ready(function() {
             App.init();

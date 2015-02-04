@@ -25,29 +25,29 @@ License: You must have a valid license purchased only from themeforest(the above
 
 	<!-- BEGIN GLOBAL MANDATORY STYLES -->
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/plugins/bootstrap2/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/bootstrap2/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css"/>
 	<!-- END GLOBAL MANDATORY STYLES -->
 
 	<!-- BEGIN PAGE LEVEL PLUGIN STYLES -->
-	<link href="{url}assets/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/plugins/gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/plugins/fullcalendar/fullcalendar/fullcalendar.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/plugins/jqvmap/jqvmap/jqvmap.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/plugins/jquery-easy-pie-chart/jquery.easy-pie-chart.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/bootstrap-daterangepicker/daterangepicker-bs3.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/gritter/css/jquery.gritter.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/fullcalendar/fullcalendar/fullcalendar.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/jqvmap/jqvmap/jqvmap.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/jquery-easy-pie-chart/jquery.easy-pie-chart.css" rel="stylesheet" type="text/css"/>
 
 	<!-- END PAGE LEVEL PLUGIN STYLES -->
 
 	<!-- BEGIN THEME STYLES -->
-	<link href="{url}assets/css/style-metronic2.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/css/style2.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/css/style-responsive2.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/css/plugins.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/css/pages/tasks.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color"/>
-	<link href="{url}assets/css/print.css" rel="stylesheet" type="text/css" media="print"/>
-	<link href="{url}assets/css/custom.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/style-metronic2.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/style2.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/style-responsive2.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/plugins.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/pages/tasks.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color"/>
+	<link href="{url}assets_admin/css/print.css" rel="stylesheet" type="text/css" media="print"/>
+	<link href="{url}assets_admin/css/custom.css" rel="stylesheet" type="text/css"/>
 	<!-- END THEME STYLES -->
 	{if $csss}
 		{foreach from=$csss item=css}
@@ -67,12 +67,12 @@ License: You must have a valid license purchased only from themeforest(the above
 	<div class="header-inner">
 		<!-- BEGIN LOGO -->
 		<a class="navbar-brand" href="index.html">
-			<img src="{url}assets/img/logo.png" alt="logo" class="img-responsive"/>
+			<img src="{url}assets_admin/img/logo.png" alt="logo" class="img-responsive"/>
 		</a>
 		<!-- END LOGO -->
 		<!-- BEGIN RESPONSIVE MENU TOGGLER -->
 		<a href="javascript:;" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-			<img src="{url}assets/img/menu-toggler.png" alt=""/>
+			<img src="{url}assets_admin/img/menu-toggler.png" alt=""/>
 		</a>
 		<!-- END RESPONSIVE MENU TOGGLER -->
 		<!-- BEGIN TOP NAVIGATION MENU -->
@@ -221,7 +221,7 @@ License: You must have a valid license purchased only from themeforest(the above
 							<li>
 								<a href="inbox.html?a=view">
 									<span class="photo">
-										<img src="{url}assets/img/avatar2.jpg" alt=""/>
+										<img src="{url}assets_admin/img/avatar2.jpg" alt=""/>
 									</span>
 									<span class="subject">
 										<span class="from">
@@ -239,7 +239,7 @@ License: You must have a valid license purchased only from themeforest(the above
 							<li>
 								<a href="inbox.html?a=view">
 									<span class="photo">
-										<img src="{url}assets/img/avatar3.jpg" alt=""/>
+										<img src="{url}assets_admin/img/avatar3.jpg" alt=""/>
 									</span>
 									<span class="subject">
 										<span class="from">
@@ -257,7 +257,7 @@ License: You must have a valid license purchased only from themeforest(the above
 							<li>
 								<a href="inbox.html?a=view">
 									<span class="photo">
-										<img src="{url}assets/img/avatar1.jpg" alt=""/>
+										<img src="{url}assets_admin/img/avatar1.jpg" alt=""/>
 									</span>
 									<span class="subject">
 										<span class="from">
@@ -275,7 +275,7 @@ License: You must have a valid license purchased only from themeforest(the above
 							<li>
 								<a href="inbox.html?a=view">
 									<span class="photo">
-										<img src="{url}assets/img/avatar2.jpg" alt=""/>
+										<img src="{url}assets_admin/img/avatar2.jpg" alt=""/>
 									</span>
 									<span class="subject">
 										<span class="from">
@@ -293,7 +293,7 @@ License: You must have a valid license purchased only from themeforest(the above
 							<li>
 								<a href="inbox.html?a=view">
 									<span class="photo">
-										<img src="{url}assets/img/avatar3.jpg" alt=""/>
+										<img src="{url}assets_admin/img/avatar3.jpg" alt=""/>
 									</span>
 									<span class="subject">
 										<span class="from">
@@ -480,7 +480,7 @@ License: You must have a valid license purchased only from themeforest(the above
 			<!-- BEGIN USER LOGIN DROPDOWN -->
 			<li class="dropdown user">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-close-others="true">
-					<img alt="" src="{url}assets/img/avatar1_small.jpg"/>
+					<img alt="" src="{url}assets_admin/img/avatar1_small.jpg"/>
 					<span class="username">
 						 Bob Nilson
 					</span>

@@ -4,7 +4,7 @@
         <div id="layerslider" style="width: 100%; height: 494px; margin: 0 auto;">
             <!--LayerSlider layer-->
             <div class="ls-layer ls-layer1" style="slidedirection: right; transition2d: 24,25,27,28; ">
-                <img src="{$base_url}assets/temp/sliders/slide1/bg.jpg" class="ls-bg" alt="Slide background">
+                <img src="{$base_url}assets_home/temp/sliders/slide1/bg.jpg" class="ls-bg" alt="Slide background">
                 <div class="ls-s-1 title" style=" top: 96px; left: 35%; slidedirection : fade; slideoutdirection : fade; durationin : 750; durationout : 750; easingin : easeOutQuint; rotatein : 90; rotateout : -90; scalein : .5; scaleout : .5; showuntil : 4000; white-space: nowrap;">
                     Tones of <strong>shop UI features</strong> designed
                 </div>
@@ -15,7 +15,7 @@
 
             <!--LayerSlider layer-->
             <div class="ls-layer ls-layer2" style="slidedirection: right; transition2d: 110,111,112,113; ">
-                <img src="{$base_url}assets/temp/sliders/slide2/bg.jpg" class="ls-bg" alt="Slide background">
+                <img src="{$base_url}assets_home/temp/sliders/slide2/bg.jpg" class="ls-bg" alt="Slide background">
                 <div class="ls-s-1 ls-title title" style=" top: 40%; left: 21%; slidedirection : fade; slideoutdirection : fade; durationin : 750; durationout : 750; easingin : easeOutQuint; easingout : easeInOutQuint; delayin : 0; delayout : 0; rotatein : 90; rotateout : -90; scalein : .5; scaleout : .5; showuntil : 4000; white-space: nowrap;">
                     <strong class="title">Unlimted</strong>
                     Layout Options
@@ -34,7 +34,7 @@
 
             <!--LayerSlider layer-->
             <div class="ls-layer ls-layer3" style="slidedirection: right; transition2d: 92,93,105; ">
-                <img src="{$base_url}assets/temp/sliders/slide3/bg.jpg" class="ls-bg" alt="Slide background">
+                <img src="{$base_url}assets_home/temp/sliders/slide3/bg.jpg" class="ls-bg" alt="Slide background">
 
                 <div class="ls-s-1 ls-title" style=" top: 83px; left: 33%; slidedirection : fade; slideoutdirection : fade; durationin : 750; durationout : 750; easingin : easeOutQuint; rotatein : 90; rotateout : -90; scalein : .5; scaleout : .5; showuntil : 4000; white-space: nowrap;">
                     Full Admin & Frontend
@@ -55,7 +55,7 @@
 
             <!--LayerSlider layer-->
             <div class="ls-layer ls-layer5" style="slidedirection: right; transition2d: 110,111,112,113; ">
-                <img src="{$base_url}assets/temp/sliders/slide5/bg.jpg" class="ls-bg" alt="Slide background">
+                <img src="{$base_url}assets_home/temp/sliders/slide5/bg.jpg" class="ls-bg" alt="Slide background">
 
                 <div class="ls-s-1 title" style=" top: 35%; left: 60%; slidedirection : fade; slideoutdirection : fade; durationin : 750; durationout : 750; easingin : easeOutQuint; rotatein : 90; rotateout : -90; scalein : .5; scaleout : .5; showuntil : 4000; white-space: nowrap;">
                     The most<br>
@@ -84,9 +84,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/model1.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/model1.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/model1.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/model1.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -99,9 +99,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/model2.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/model2.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/model2.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/model2.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -113,9 +113,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/model6.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/model6.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/model6.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/model6.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -127,9 +127,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/model4.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/model4.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/model4.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/model4.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -142,9 +142,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/model5.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/model5.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/model5.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/model5.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -156,9 +156,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/model3.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/model3.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/model3.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/model3.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -170,9 +170,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/model7.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/model7.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/model7.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/model7.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -244,9 +244,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k1.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k1.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k1.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k1.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -259,9 +259,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k2.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k2.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k2.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k2.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -273,9 +273,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k3.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k3.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k3.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k3.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -287,9 +287,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k4.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k4.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k4.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k4.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -302,9 +302,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k1.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k1.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k1.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k1.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -316,9 +316,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k2.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k2.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k2.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k2.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -344,9 +344,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k4.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k4.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k4.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k4.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -358,9 +358,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k2.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k2.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k2.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k2.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -372,9 +372,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k3.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k3.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k3.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k3.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -386,9 +386,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k1.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k1.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k1.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k1.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -400,9 +400,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k4.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k4.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k4.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k4.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -414,9 +414,9 @@
                             <li>
                                 <div class="product-item">
                                     <div class="pi-img-wrapper">
-                                        <img src="{$base_url}assets/temp/products/k3.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                        <img src="{$base_url}assets_home/temp/products/k3.jpg" class="img-responsive" alt="Berry Lace Dress">
                                         <div>
-                                            <a href="{$base_url}assets/temp/products/k3.jpg" class="btn btn-default fancybox-button">Zoom</a>
+                                            <a href="{$base_url}assets_home/temp/products/k3.jpg" class="btn btn-default fancybox-button">Zoom</a>
                                             <a href="#product-pop-up" class="btn btn-default fancybox-fast-view">View</a>
                                         </div>
                                     </div>
@@ -441,13 +441,13 @@
                             </ol>
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="{$base_url}assets/temp/index-sliders/slide1.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                    <img src="{$base_url}assets_home/temp/index-sliders/slide1.jpg" class="img-responsive" alt="Berry Lace Dress">
                                 </div>
                                 <div class="item">
-                                    <img src="{$base_url}assets/temp/index-sliders/slide2.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                    <img src="{$base_url}assets_home/temp/index-sliders/slide2.jpg" class="img-responsive" alt="Berry Lace Dress">
                                 </div>
                                 <div class="item">
-                                    <img src="{$base_url}assets/temp/index-sliders/slide3.jpg" class="img-responsive" alt="Berry Lace Dress">
+                                    <img src="{$base_url}assets_home/temp/index-sliders/slide3.jpg" class="img-responsive" alt="Berry Lace Dress">
                                 </div>
                             </div>
                         </div>
@@ -465,18 +465,18 @@
             <div class="row">
                 <div class="bxslider-wrapper">
                     <ul class="bxslider" data-slides-phone="1" data-slides-tablet="3" data-slides-desktop="6" data-slide-margin="15">
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/canon.jpg" alt="canon" title="canon"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/esprit.jpg" alt="esprit" title="esprit"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/gap.jpg" alt="gap" title="gap"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/next.jpg" alt="next" title="next"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/puma.jpg" alt="puma" title="puma"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/zara.jpg" alt="zara" title="zara"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/canon.jpg" alt="canon" title="canon"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/esprit.jpg" alt="esprit" title="esprit"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/gap.jpg" alt="gap" title="gap"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/next.jpg" alt="next" title="next"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/puma.jpg" alt="puma" title="puma"></a></li>
-                        <li><a href="product-list.html"><img src="{$base_url}assets/temp/brands/zara.jpg" alt="zara" title="zara"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/canon.jpg" alt="canon" title="canon"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/esprit.jpg" alt="esprit" title="esprit"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/gap.jpg" alt="gap" title="gap"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/next.jpg" alt="next" title="next"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/puma.jpg" alt="puma" title="puma"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/zara.jpg" alt="zara" title="zara"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/canon.jpg" alt="canon" title="canon"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/esprit.jpg" alt="esprit" title="esprit"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/gap.jpg" alt="gap" title="gap"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/next.jpg" alt="next" title="next"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/puma.jpg" alt="puma" title="puma"></a></li>
+                        <li><a href="product-list.html"><img src="{$base_url}assets_home/temp/brands/zara.jpg" alt="zara" title="zara"></a></li>
                     </ul>
                 </div>
             </div>

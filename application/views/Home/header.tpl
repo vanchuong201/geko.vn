@@ -42,21 +42,21 @@ License: You must have a valid license purchased only from themeforest(the above
     <!-- Fonts END -->
 
     <!-- Global styles START -->
-    <link href="{$base_url}assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="{$base_url}assets/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="{$base_url}assets_home/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="{$base_url}assets_home/plugins/bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css">
     <!-- Global styles END -->
 
     <!-- Page level plugin styles START -->
-    <link href="{$base_url}assets/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet">
-    <link href="{$base_url}assets/plugins/bxslider/jquery.bxslider.css" rel="stylesheet">
-    <link rel="stylesheet" href="{$base_url}assets/plugins/layerslider/css/layerslider.css" type="text/css">
+    <link href="{$base_url}assets_home/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet">
+    <link href="{$base_url}assets_home/plugins/bxslider/jquery.bxslider.css" rel="stylesheet">
+    <link rel="stylesheet" href="{$base_url}assets_home/plugins/layerslider/css/layerslider.css" type="text/css">
     <!-- Page level plugin styles END -->
 
     <!-- Theme styles START -->
-    <link href="{$base_url}assets/css/style-metronic.css" rel="stylesheet" type="text/css">
-    <link href="{$base_url}assets/css/style.css" rel="stylesheet" type="text/css">
-    <link href="{$base_url}assets/css/style-responsive.css" rel="stylesheet" type="text/css">
-    <link href="{$base_url}assets/css/custom.css" rel="stylesheet" type="text/css">
+    <link href="{$base_url}assets_home/css/style-metronic.css" rel="stylesheet" type="text/css">
+    <link href="{$base_url}assets_home/css/style.css" rel="stylesheet" type="text/css">
+    <link href="{$base_url}assets_home/css/style-responsive.css" rel="stylesheet" type="text/css">
+    <link href="{$base_url}assets_home/css/custom.css" rel="stylesheet" type="text/css">
     <!-- Theme styles END -->
 </head>
 
@@ -119,7 +119,7 @@ License: You must have a valid license purchased only from themeforest(the above
                     <span class="icon-bar"></span>
                 </button>
                 <!-- END RESPONSIVE MENU TOGGLER -->
-                <a href="index.html" class="navbar-brand"><img src="{$base_url}assets/img/logo_red.png" alt="Metronic Shop UI"></a><!-- LOGO -->
+                <a href="index.html" class="navbar-brand"><img src="{$base_url}assets_home/img/logo_red.png" alt="Metronic Shop UI"></a><!-- LOGO -->
             </div>
             <!-- BEGIN CART -->
             <div class="cart-block">
@@ -133,56 +133,56 @@ License: You must have a valid license purchased only from themeforest(the above
                     <div class="cart-content">
                         <ul class="scroller" style="height: 250px;">
                             <li>
-                                <a href="item.html"><img src="{$base_url}assets/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
+                                <a href="item.html"><img src="{$base_url}assets_home/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
                                 <span class="cart-content-count">x 1</span>
                                 <strong><a href="item.html">Rolex Classic Watch</a></strong>
                                 <em>$1230</em>
                                 <a href="javascript:void(0);" class="del-goods"><i class="fa fa-times"></i></a>
                             </li>
                             <li>
-                                <a href="item.html"><img src="{$base_url}assets/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
+                                <a href="item.html"><img src="{$base_url}assets_home/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
                                 <span class="cart-content-count">x 1</span>
                                 <strong><a href="item.html">Rolex Classic Watch</a></strong>
                                 <em>$1230</em>
                                 <a href="javascript:void(0);" class="del-goods"><i class="fa fa-times"></i></a>
                             </li>
                             <li>
-                                <a href="item.html"><img src="{$base_url}assets/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
+                                <a href="item.html"><img src="{$base_url}assets_home/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
                                 <span class="cart-content-count">x 1</span>
                                 <strong><a href="item.html">Rolex Classic Watch</a></strong>
                                 <em>$1230</em>
                                 <a href="javascript:void(0);" class="del-goods"><i class="fa fa-times"></i></a>
                             </li>
                             <li>
-                                <a href="item.html"><img src="{$base_url}assets/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
+                                <a href="item.html"><img src="{$base_url}assets_home/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
                                 <span class="cart-content-count">x 1</span>
                                 <strong><a href="item.html">Rolex Classic Watch</a></strong>
                                 <em>$1230</em>
                                 <a href="javascript:void(0);" class="del-goods"><i class="fa fa-times"></i></a>
                             </li>
                             <li>
-                                <a href="item.html"><img src="{$base_url}assets/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
+                                <a href="item.html"><img src="{$base_url}assets_home/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
                                 <span class="cart-content-count">x 1</span>
                                 <strong><a href="item.html">Rolex Classic Watch</a></strong>
                                 <em>$1230</em>
                                 <a href="javascript:void(0);" class="del-goods"><i class="fa fa-times"></i></a>
                             </li>
                             <li>
-                                <a href="item.html"><img src="{$base_url}assets/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
+                                <a href="item.html"><img src="{$base_url}assets_home/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
                                 <span class="cart-content-count">x 1</span>
                                 <strong><a href="item.html">Rolex Classic Watch</a></strong>
                                 <em>$1230</em>
                                 <a href="javascript:void(0);" class="del-goods"><i class="fa fa-times"></i></a>
                             </li>
                             <li>
-                                <a href="item.html"><img src="{$base_url}assets/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
+                                <a href="item.html"><img src="{$base_url}assets_home/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
                                 <span class="cart-content-count">x 1</span>
                                 <strong><a href="item.html">Rolex Classic Watch</a></strong>
                                 <em>$1230</em>
                                 <a href="javascript:void(0);" class="del-goods"><i class="fa fa-times"></i></a>
                             </li>
                             <li>
-                                <a href="item.html"><img src="{$base_url}assets/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
+                                <a href="item.html"><img src="{$base_url}assets_home/temp/cart-img.jpg" alt="Rolex Classic Watch" width="37" height="34"></a>
                                 <span class="cart-content-count">x 1</span>
                                 <strong><a href="item.html">Rolex Classic Watch</a></strong>
                                 <em>$1230</em>
@@ -259,11 +259,11 @@ License: You must have a valid license purchased only from themeforest(the above
                                     <!-- BEGIN DROPDOWN MENU - BRANDS -->
                                     <div class="nav-brands">
                                         <ul>
-                                            <li><a href="product-list.html"><img title="esprit" alt="esprit" src="{$base_url}assets/temp/brands/esprit.jpg"></a></li>
-                                            <li><a href="product-list.html"><img title="gap" alt="gap" src="{$base_url}assets/temp/brands/gap.jpg"></a></li>
-                                            <li><a href="product-list.html"><img title="next" alt="next" src="{$base_url}assets/temp/brands/next.jpg"></a></li>
-                                            <li><a href="product-list.html"><img title="puma" alt="puma" src="{$base_url}assets/temp/brands/puma.jpg"></a></li>
-                                            <li><a href="product-list.html"><img title="zara" alt="zara" src="{$base_url}assets/temp/brands/zara.jpg"></a></li>
+                                            <li><a href="product-list.html"><img title="esprit" alt="esprit" src="{$base_url}assets_home/temp/brands/esprit.jpg"></a></li>
+                                            <li><a href="product-list.html"><img title="gap" alt="gap" src="{$base_url}assets_home/temp/brands/gap.jpg"></a></li>
+                                            <li><a href="product-list.html"><img title="next" alt="next" src="{$base_url}assets_home/temp/brands/next.jpg"></a></li>
+                                            <li><a href="product-list.html"><img title="puma" alt="puma" src="{$base_url}assets_home/temp/brands/puma.jpg"></a></li>
+                                            <li><a href="product-list.html"><img title="zara" alt="zara" src="{$base_url}assets_home/temp/brands/zara.jpg"></a></li>
                                         </ul>
                                     </div>
                                     <!-- END DROPDOWN MENU - BRANDS -->
@@ -327,7 +327,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                 <div class="nav-content">
                                     <div class="product-item">
                                         <div class="pi-img-wrapper">
-                                            <a href="item.html"><img src="{$base_url}assets/temp/products/model4.jpg" class="img-responsive" alt="Berry Lace Dress"></a>
+                                            <a href="item.html"><img src="{$base_url}assets_home/temp/products/model4.jpg" class="img-responsive" alt="Berry Lace Dress"></a>
                                         </div>
                                         <h3><a href="item.html">Berry Lace Dress</a></h3>
                                         <div class="pi-price">$29.00</div>
@@ -335,7 +335,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                     </div>
                                     <div class="product-item">
                                         <div class="pi-img-wrapper">
-                                            <a href="item.html"><img src="{$base_url}assets/temp/products/model3.jpg" class="img-responsive" alt="Berry Lace Dress"></a>
+                                            <a href="item.html"><img src="{$base_url}assets_home/temp/products/model3.jpg" class="img-responsive" alt="Berry Lace Dress"></a>
                                         </div>
                                         <h3><a href="item.html">Berry Lace Dress</a></h3>
                                         <div class="pi-price">$29.00</div>
@@ -343,7 +343,7 @@ License: You must have a valid license purchased only from themeforest(the above
                                     </div>
                                     <div class="product-item">
                                         <div class="pi-img-wrapper">
-                                            <a href="item.html"><img src="{$base_url}assets/temp/products/model7.jpg" class="img-responsive" alt="Berry Lace Dress"></a>
+                                            <a href="item.html"><img src="{$base_url}assets_home/temp/products/model7.jpg" class="img-responsive" alt="Berry Lace Dress"></a>
                                         </div>
                                         <h3><a href="item.html">Berry Lace Dress</a></h3>
                                         <div class="pi-price">$29.00</div>
