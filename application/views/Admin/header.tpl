@@ -26,7 +26,7 @@ License: You must have a valid license purchased only from themeforest(the above
 	<!-- BEGIN GLOBAL MANDATORY STYLES -->
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700&subset=all" rel="stylesheet" type="text/css"/>
 	<link href="{url}assets_admin/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets_admin/plugins/bootstrap2/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
 	<link href="{url}assets_admin/plugins/uniform/css/uniform.default.css" rel="stylesheet" type="text/css"/>
 	<!-- END GLOBAL MANDATORY STYLES -->
 
@@ -40,9 +40,9 @@ License: You must have a valid license purchased only from themeforest(the above
 	<!-- END PAGE LEVEL PLUGIN STYLES -->
 
 	<!-- BEGIN THEME STYLES -->
-	<link href="{url}assets_admin/css/style-metronic2.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets_admin/css/style2.css" rel="stylesheet" type="text/css"/>
-	<link href="{url}assets_admin/css/style-responsive2.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/style-metronic.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/style.css" rel="stylesheet" type="text/css"/>
+	<link href="{url}assets_admin/css/style-responsive.css" rel="stylesheet" type="text/css"/>
 	<link href="{url}assets_admin/css/plugins.css" rel="stylesheet" type="text/css"/>
 	<link href="{url}assets_admin/css/pages/tasks.css" rel="stylesheet" type="text/css"/>
 	<link href="{url}assets_admin/css/themes/default.css" rel="stylesheet" type="text/css" id="style_color"/>

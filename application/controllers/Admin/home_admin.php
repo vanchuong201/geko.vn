@@ -11,7 +11,6 @@ class Home_admin extends CI_Controller{
 
     }
     public function index(){
-        $this->parser->assign('base_url',base_url());
         $this->parser->assign('jss','assets/scripts/custom/index.js');
         $this->parser->assign('scripts','Index.initDashboardDaterange();');
 
